@@ -5,4 +5,4 @@ Grab the course at https://JavaScript30.com
 
 ###Day 1
 
-Drum kit was harder than I expected! Good reminder of how to play sounds on page.
+Drum kit was tougher than it seemed! Good reminder of how to play sounds on page.
