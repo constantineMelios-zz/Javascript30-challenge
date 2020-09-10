@@ -9,6 +9,6 @@ Drum kit was tougher than it seemed! Good reminder of how to play sounds on page
 
 ### Day 2
 
-Clock was an interesting project. I even solved something by mistake :P
-(I used an experimental feature 'translate' by mistake, I will try to find another way to do the same thing)
+Clock was an interesting project. I even solved something by chance 😳
+(Ok by mistake I used an experimental feature which translates an element around. I fix it using a left margin)
 
