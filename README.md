@@ -16,6 +16,6 @@ Clock was an interesting project. I even solved something by chance 😳
 
 Nice little project. Learned how to target root!
 
-### Day 4 | Array Cardio 1 🚀
+### Day 4 | Array Cardio 1 💪
 
 That was a wonderful practice.
