@@ -14,12 +14,16 @@ Clock was an interesting project. I even solved something by chance 😳
 
 ### Day 3 | CSS Variables 🚀
 
-Nice little project. Learned how to target root!
+Nice little project. Learned how to target root documentElement!
 
 ### Day 4 | Array Cardio 1 🏃
 
-That was a wonderful practice.
+That was a wonderful practice for short() map() reduce() filter()
 
 ### Day 5 | Flex Panel Gallery 💪
 
-All need some flexing...
+We all need some flexing on our CSS from time to time
+
+### Day 6 | Type ahead ⌨️
+
+Regex() & replace() was fun to use
