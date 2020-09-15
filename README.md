@@ -27,3 +27,7 @@ We all need some flexing on our CSS from time to time
 ### Day 6 | Type ahead ⌨️
 
 Regex() & replace() was fun to use
+
+### Day 6 | Array Cardio 2 🏃
+
+Easy day. Nice learning new methods.
