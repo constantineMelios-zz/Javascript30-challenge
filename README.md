@@ -28,6 +28,11 @@ We all need some flexing on our CSS from time to time
 
 Regex() & replace() was fun to use
 
-### Day 6 | Array Cardio 2 🏃
+### Day 7 | Array Cardio 2 🏃
 
 Easy day. Nice learning new methods.
+
+
+### Day 8 | Fun with Canvas 🎨
+
+I needed a reminder to Canvas API
