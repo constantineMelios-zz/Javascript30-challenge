@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+
+<body>
+
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Regular
+    console.log("Hello, I am the console!")
+    // Interpolated
+    const username = "Constantine"
+    console.log(`How can I help you ${username}?`)
+    // Styled
+    console.log("%cWaiting for your input...", "color:grey; font-size:12px; font-family:serif; text-decoration:underline")
+    // warning!
+    console.warn("Temperature is over safety zone!")
+    // Error :|
+    console.error("Main CPU has malfunctioned")
+    // Info
+    console.info("Just joking! :P")
+    // Testing
+    const paragraph = document.querySelector("p")
+
+    console.assert(paragraph.classList.contains('err'), "Does not has class")
+    // clearing
+    console.clear()
+    // Viewing DOM Elements
+    console.log(paragraph)
+    // Grouping together
+    dogs.map(dog => {
+      console.groupCollapsed(`${dog.name}`)
+      console.log(`Welcome ${dog.name}`)
+      console.log(`${dog.name} is ${dog.age} years old`)
+      console.log(`${dog.name} is ${dog.age * 7} dog years old`)
+      console.groupEnd(`${dog.name}`)
+    })
+
+    // counting
+    console.count('Constantine')
+    console.count('Constantine')
+    console.count('Ada')
+    console.count('Ada')
+    console.count('Constantine')
+    console.count('Ada')
+    console.count('Constantine')
+    console.count('Constantine')
+    console.count('Constantine')
+    console.count('Ada')
+    console.count('Ada')
+    console.count('Ada')
+    console.count('Ada')
+    console.count('Ada')
+    // timing
+    console.time('fetching data');
+    fetch('https://api.github.com/users/constantineMelios')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd('fetching data');
+        console.table(data);
+      })
+
+
+
+
+  </script>
+</body>
+
+</html>

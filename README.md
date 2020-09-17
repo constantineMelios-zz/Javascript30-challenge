@@ -3,7 +3,7 @@
 ## My take on Wes Bos' famous 30 Days of JavaScript 
 Grab the course at https://JavaScript30.com
 
-### Day 3 | Drum -Kit 🥁
+### Day 1 | Drum -Kit 🥁
 
 Drum kit was tougher than it seemed! Good reminder of how to play sounds on page.
 
@@ -28,6 +28,10 @@ We all need some flexing on our CSS from time to time
 
 Regex() & replace() was fun to use
 
-### Day 6 | Array Cardio 2 🏃
+### Day 7 | Array Cardio 2 🏃
 
 Easy day. Nice learning new methods.
+
+### Day 8 | Dev Tools Domination 🖥️
+
+Playing around with dev tools.
