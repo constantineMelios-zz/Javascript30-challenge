@@ -32,6 +32,11 @@ Regex() & replace() was fun to use
 
 Easy day. Nice learning new methods.
 
-### Day 8 | Dev Tools Domination 🖥️
+### Day 8 | Fun with Canvas 🎨
+
+I needed a reminder to Canvas API
+
+### Day 9 | Dev Tools Domination 🖥️
 
 Playing around with dev tools.
+
