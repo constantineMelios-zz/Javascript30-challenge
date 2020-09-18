@@ -40,3 +40,7 @@ I needed a reminder to Canvas API
 
 Playing around with dev tools.
 
+### Day 10 | Hold Shift and Check Checkboxes ⬆️
+
+Click event shiftKey was a new for me. Glad I find it out!
+
