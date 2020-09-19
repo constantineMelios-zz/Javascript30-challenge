@@ -44,3 +44,7 @@ Playing around with dev tools.
 
 Click event shiftKey was a new for me. Glad I find it out!
 
+
+### Day 11 | Custom Video Player ▶
+
+First time I needed to see the video first. Note to self: study the video API
