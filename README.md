@@ -51,3 +51,12 @@ First time I needed to see the video first. Note to self: study the video API
 ### Day 12 | Key Sequence Detection 🔑
 
 Quirky little project. 
+
+```javascript
+setTimeout(illness,1728000)
+```
+
+
+### Day 13 | Slide on Scroll ⛐
+
+Debounce is very useful knowledge
