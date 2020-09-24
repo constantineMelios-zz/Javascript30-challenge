@@ -64,3 +64,7 @@ Debounce is very useful knowledge
 
 ES6 made thinks so much easier. Great course about the subject from Dan Abramov [Just Javascript](https://justjavascript.com/). I wish it resets soon.
 
+### Day 15 | LocalStorage
+
+Great reminder on LocalStorage. Although I did not found a way to stop event propagation or select only inputs for targets :confused: I need to find out why!
+
