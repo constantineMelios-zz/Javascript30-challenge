@@ -56,7 +56,11 @@ Quirky little project.
 setTimeout(illness,1728000)
 ```
 
-
 ### Day 13 | Slide on Scroll ⛐
 
 Debounce is very useful knowledge
+
+### Day 14 | Javascript References VS Copying
+
+ES6 made thinks so much easier. Great course about the subject from Dan Abramov [Just Javascript](https://justjavascript.com/). I wish it reset soon.
+
