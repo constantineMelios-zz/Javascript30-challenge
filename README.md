@@ -66,5 +66,5 @@ ES6 made thinks so much easier. Great course about the subject from Dan Abramov 
 
 ### Day 15 | LocalStorage
 
-Great reminder on LocalStorage. Although I did not found a way to stop event propagation or select only inputs for targets :confused: I need to find out why!
+Great reminder on LocalStorage. Although I did not found a way to stop event propagation or select only inputs for targets :confused: I need to find out why! :UPDATE: I found it out :smile:
 
