@@ -62,5 +62,5 @@ Debounce is very useful knowledge
 
 ### Day 14 | Javascript References VS Copying
 
-ES6 made thinks so much easier. Great course about the subject from Dan Abramov [Just Javascript](https://justjavascript.com/). I wish it reset soon.
+ES6 made thinks so much easier. Great course about the subject from Dan Abramov [Just Javascript](https://justjavascript.com/). I wish it resets soon.
 
