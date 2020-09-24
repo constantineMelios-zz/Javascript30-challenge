@@ -1,7 +1,7 @@
 const addItems = document.querySelector('.add-items')
 const itemsList = document.querySelector('.plates')
 const input = document.querySelector('input[type="text"]')
-const items = []
+const items = JSON.parse(localStorage.getItem('items'))
 let textboxes = []
 
 function addItem(event) {
@@ -20,7 +20,7 @@ function addItem(event) {
 
 function populateList(items =[]) {
     const list = JSON.parse(localStorage.getItem('items'))
-    
+    items = list
     itemsList.innerHTML = list.map((listItem, index) => 
         (`<li>
             <input type="checkbox" data-index=${index} id="item${index}" ${listItem.done && 'checked'} />
@@ -30,17 +30,14 @@ function populateList(items =[]) {
 }
 
 function toggleDone(event) {
+    if (event.target.matches('label')) return
     items[event.target.dataset.index].done = !items[event.target.dataset.index].done
     localStorage.setItem('items', JSON.stringify(items))
     populateList(items)
+
 }
 
-
-
 addItems.addEventListener("submit", addItem)
-itemsList.addEventListener("click", event => {
-    const checkboxes = document.querySelectorAll("input[type = 'checkbox']")
-    checkboxes.forEach(checkbox => checkbox.addEventListener("change", toggleDone))
-})
+itemsList.addEventListener("click", toggleDone)
 
 populateList()
