@@ -71,3 +71,7 @@ Great reminder on LocalStorage. Although I did not found a way to stop event pro
 ### Day 16 | Mouse Move Shadow 🐁
 
 A funny little trick! Might be useful for a 404 page or sth.
+
+### Day 17 | Sort without articles 🗃️
+
+Regex is haunting me...
