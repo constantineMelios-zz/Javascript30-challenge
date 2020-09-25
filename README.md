@@ -60,11 +60,14 @@ setTimeout(illness,1728000)
 
 Debounce is very useful knowledge
 
-### Day 14 | Javascript References VS Copying
+### Day 14 | Javascript References VS Copying ↔️
 
 ES6 made thinks so much easier. Great course about the subject from Dan Abramov [Just Javascript](https://justjavascript.com/). I wish it resets soon.
 
-### Day 15 | LocalStorage
+### Day 15 | LocalStorage 💾
 
 Great reminder on LocalStorage. Although I did not found a way to stop event propagation or select only inputs for targets :confused: I need to find out why! :UPDATE: I found it out :smile:
 
+### Day 16 | Mouse Move Shadow 🐁
+
+A funny little trick! Might be useful for a 404 page or sth.
