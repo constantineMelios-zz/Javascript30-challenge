@@ -75,3 +75,7 @@ A funny little trick! Might be useful for a 404 page or sth.
 ### Day 17 | Sort without articles 🗃️
 
 Regex is haunting me...
+
+### Day 18 | Adding Up Times with Reduce 🎥
+
+Easy one.
