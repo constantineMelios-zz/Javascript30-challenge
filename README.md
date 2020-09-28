@@ -79,3 +79,7 @@ Regex is haunting me...
 ### Day 18 | Adding Up Times with Reduce 🎥
 
 Easy one.
+
+### Day 19 | Webcam Fun 📷
+
+What a great project. I had to repeat it many times to get the grasp of it!
