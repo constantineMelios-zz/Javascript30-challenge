@@ -83,3 +83,7 @@ Easy one.
 ### Day 19 | Webcam Fun 📷
 
 What a great project. I had to repeat it many times to get the grasp of it!
+
+### Day 20 | Speech Detection 🗣️
+
+Insigthful and fun.
