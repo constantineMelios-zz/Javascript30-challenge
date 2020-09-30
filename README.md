@@ -91,3 +91,7 @@ Insigthful and fun.
 ### Day 21 | Geolocation 📍
 
 Geolocation practise.
+
+### Day 22 | Follow Along Link Highlighter ⏭️
+
+getBoundingClientRect() good to know.
