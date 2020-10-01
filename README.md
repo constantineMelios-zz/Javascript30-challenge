@@ -95,3 +95,7 @@ Geolocation practise.
 ### Day 22 | Follow Along Link Highlighter ⏭️
 
 getBoundingClientRect() good to know.
+
+### Day 23 | Speech Synthesis 💬
+
+Second time that I had to see the video...
