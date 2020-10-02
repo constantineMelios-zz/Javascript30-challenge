@@ -99,3 +99,7 @@ getBoundingClientRect() good to know.
 ### Day 23 | Speech Synthesis 💬
 
 Second time that I had to see the video...
+
+### Day 24 | Sticky Nav 🩹
+
+Nice little project
