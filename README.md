@@ -103,3 +103,7 @@ Second time that I had to see the video...
 ### Day 24 | Sticky Nav 🩹
 
 Nice little project
+
+### Day 25 | Event Capture, Propagation, Bubbling and Once ✨
+
+I do not think of a Capture use, I learned to stopPropagation the hard way, Once is interesting...
