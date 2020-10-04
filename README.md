@@ -107,3 +107,7 @@ Nice little project
 ### Day 25 | Event Capture, Propagation, Bubbling and Once ✨
 
 I do not think of a Capture use, I learned to stopPropagation the hard way, Once is interesting...
+
+### Day 26 | Stripe Follow Along Nav ⛿
+
+That was tricky...
