@@ -111,3 +111,7 @@ I do not think of a Capture use, I learned to stopPropagation the hard way, Once
 ### Day 26 | Stripe Follow Along Nav ⛿
 
 That was tricky...
+
+### Day 27 | Click & Drag 🐁
+
+I dragged into it...
