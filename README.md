@@ -115,3 +115,7 @@ That was tricky...
 ### Day 27 | Click & Drag 🐁
 
 I dragged into it...
+
+### Day 28 | Video Speed Controller 💨
+
+That was fast
