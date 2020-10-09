@@ -123,3 +123,11 @@ That was fast
 ### Day 29 | Countdown Timer ⏱️
 
 Ready, set, go
+
+### Day 30 | Whack a mole 🐭
+
+That was fun...
+
+---
+
+[x] Ended the 30 days challenge, learned a lot. Still tons to...
